@@ -1,0 +1,12 @@
+pandas
+numpy
+librosa
+tensorflow
+pytube
+pyaudio
+scikit-learn
+scipy
+keras
+sounddevice
+soundfile
+
